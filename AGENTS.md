@@ -15,7 +15,7 @@ This repository is the public support, privacy, terms, and product-information s
 - No account, no backend, no analytics, no ads. Comics, characters and photos stay on the iPhone. Character photos are described on the iPhone and then deleted; they are never uploaded.
 - The art engine is a one-time download hosted by Apple (App Store asset packs).
 - Pricing: 3 free comics, then a one-time "Ikkoma Lifetime" unlock. No subscription, no credits. Free comics carry a "Made with Ikkoma" mark.
-- Never name the underlying open model or its licence in marketing copy; licences live in the app's Acknowledgements screen.
+- Never name the underlying open model or its licence in marketing copy; licences are listed only in section 8 of terms.html.
 
 ## Content and design rules
 
