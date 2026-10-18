@@ -31,6 +31,7 @@ This repository is the public support, privacy, terms, and product-information s
 - Do not commit or push automatically. Push only when the user asks.
 - Commit messages plainly state what changed; no assistant attribution trailers.
 - GitHub: `https://github.com/ikkoma/ikkoma.github.io` (public), served at https://ikkoma.github.io until ikkoma.com is set up. Commit as `Ikkoma <ikkoma001@gmail.com>`.
+- Pushing: `gh` on this Mac holds several accounts and Backmark01 is the default. Run `gh auth switch --hostname github.com --user ikkoma` before pushing Ikkoma repos, then `gh auth switch --hostname github.com --user myreact67` (Backmark01) afterwards.
 - Support email on every page: ikkoma001@gmail.com.
 - Example art on the home page comes from the on-device model test; replace it with real app output and screenshots before launch, and swap "Coming soon" for the App Store badge and link once the app is live.
 - `tools/social-preview.html` renders `docs/images/social-preview.png` (1280×640) with headless Chrome.
